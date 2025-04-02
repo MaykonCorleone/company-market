@@ -127,7 +127,7 @@ Desenvolvido por **[Maykon Corleone](https://github.com/MaykonCorleone)** — Fu
 
 Conecte-se comigo:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maykon-araujo-1a5798292/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/MaykonCorleone)
 
 ---
