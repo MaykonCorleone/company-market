@@ -123,7 +123,7 @@ Este projeto é licenciado sob os termos da **MIT License**. Todos os direitos r
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Maykon Corleone](https://github.com/MaykonCorleone)** — Front-End Developer apaixonado por interfaces profissionais, modernas e acessíveis.
+Desenvolvido por **[Maykon Corleone](https://github.com/MaykonCorleone)** — Full-stack Developer apaixonado por interfaces profissionais, modernas e acessíveis.
 
 Conecte-se comigo:
 
